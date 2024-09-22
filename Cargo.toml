@@ -96,7 +96,7 @@ async-channel = "2.3"
 pollster = "0.3"
 
 # Terminal UI
-crossterm = "0.27.0"
+crossterm = "0.28.0"
 ratatui = "0.26.3"
 
 # WGPU stuff
